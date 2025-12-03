@@ -1,0 +1,4 @@
+Hi,
+
+  This is a testing file for jira and slack that we want to ceck that the meassge or notification send the jira ,slack or not 
+let's check it out 
